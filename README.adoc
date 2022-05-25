@@ -1,0 +1,15 @@
+= resources
+
+* https://homotopytypetheory.org/
+* http://www.weaselhat.com/2022/05/24/when-is-program-synthesis-worthwhile/
+* https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html
+* https://www.google.com/books/edition/Constructionism_in_Practice/qToFlGC_2NQC?hl=en&gbpv=0
+* https://www.youtube.com/watch?v=XSKfHDMXIgg
+* https://dl.acm.org/doi/pdf/10.1145/3461648.3463850
+* https://dl.acm.org/doi/10.1145/3502742
+* https://dl.acm.org/doi/abs/10.1145/3479430
+* https://dl.acm.org/doi/10.1145/3498681
+* https://web.stanford.edu/~cpiech/bio/papers/generativeGrading.pdf
+* https://os.phil-opp.com/freestanding-rust-binary/
+* https://dl.acm.org/doi/abs/10.1145/3479430
+* https://willcrichton.net/nota/
