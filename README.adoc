@@ -16,3 +16,4 @@
 * http://jmct.cc/
 * https://dl.acm.org/doi/10.1145/359576.359579
 * https://www.cs.ubc.ca/~nickhar/F16/
+* https://web.ma.utexas.edu/users/blumberg/math392.html
